@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lmoroney.github.io/sitemap.xml
+Sitemap: https://lmoroney.github.io//sitemap.xml
